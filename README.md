@@ -31,6 +31,7 @@ The portfolio is connected to a custom backend and CMS, allowing portfolio conte
 - Supabase Storage
 
 ## 🔄 Application Flow
+```text
 Admin
   ↓
 CMS
@@ -42,7 +43,7 @@ Supabase Database / Storage
 Portfolio Frontend
   ↓
 Visitor
-
+```
 # ☁️ Deployment
 Frontend: Vercel
 Backend: Render
